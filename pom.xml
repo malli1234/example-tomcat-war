@@ -18,7 +18,7 @@
       <distributionManagement>
        <snapshotRepository>
         <id>snapshots</id>
-         <url>http://machine1.ca.com:8081/artifactory/libs-snapshot</url>
+         <url>http://machine1.ca.com:8081/artifactory/libssss-snapshot</url>
        </snapshotRepository>
       </distributionManagement>
   <build>
